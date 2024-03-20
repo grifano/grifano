@@ -1,4 +1,4 @@
-![](/assets/Banner.jpg)
+![](https://i.ibb.co/fQ1QHFF/Banner.jpg)
 
 # Hi 👋 there!
 
@@ -8,12 +8,6 @@ beats the times I spend with my family and my kids - they're my world!
 
 I'm really looking forward to sharing stories and learning new things with you
 all. Let's connect!
-
-### Links
-
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## Author
 
 - Website - [Serhii "Grifano" Orlenko](https://grifano.com)
 - Uxcel - [Design](https://app.uxcel.com/ux/EE4PBID94EEH)

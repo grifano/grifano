@@ -9,8 +9,8 @@ beats the times I spend with my family and my kids - they're my world!
 I'm really looking forward to sharing stories and learning new things with you
 all. Let's connect!
 
-- Website - [Serhii "Grifano" Orlenko](https://grifano.com)
-- Uxcel - [Design](https://app.uxcel.com/ux/EE4PBID94EEH)
+- Website - [grifano.com](https://grifano.com)
+- Uxcel - [www.uxcel.com](https://app.uxcel.com/ux/EE4PBID94EEH)
 - Frontend Mentor -
-  [Web Development](https://www.frontendmentor.io/profile/SO-Grifano)
-- Twitter - [@OrlenkoSerhii](https://twitter.com/OrlenkoSerhii)
+  [www.frontendmentor.io](https://www.frontendmentor.io/profile/SO-Grifano)
+- LinkedIn - [www.linkedin.com](https://www.linkedin.com/in/grifano/)
